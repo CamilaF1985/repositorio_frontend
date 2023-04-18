@@ -1,0 +1,35 @@
+body {
+    background-image: url(https://img.freepik.com/vector-gratis/huella-pata-perro-o-gato-diseno-patron-corazon_1017-36752.jpg?size=626&ext=jpg&ga=GA1.1.184780455.1680708502&semt=ais);
+}
+
+h1,
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rebeccapurple;
+}
+
+section,
+aside {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+section {
+    color: mediumslateblue;
+}
+
+aside {
+    color: darkslateblue;
+}
+
+#tiemporestante {
+border: width 2px;
+border-style:ridge;
+border-collapse: separate;
+border-color: darkslateblue;
+color:mediumslateblue;
+text-align: center;
+font-style: oblique;
+font-weight: bold;
+font-size: medium;
+float:left
+}
